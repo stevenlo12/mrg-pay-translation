@@ -1,0 +1,16 @@
+{
+  "name": "mrg-pay-translation",
+  "version": "1.0.0",
+  "description": "Maintain translation for mrg-pay.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "execute": "NODE_NO_WARNINGS=1 node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1649.0",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}
